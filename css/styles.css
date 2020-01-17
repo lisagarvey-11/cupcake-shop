@@ -8,15 +8,18 @@ p {
 }
 
 p.intro {
-  width; 50%;
+  width: 50%;
   font-style: italic;
+  color: green;
 }
 
 p.author {
   width: 75%;
   font-style: italic;
   font-weight: bold;
+  color: purple;
 }
+
 p.important {
   color: red;
 }
